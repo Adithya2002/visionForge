@@ -7,21 +7,17 @@ Transform your photos with the power of AI! Pictoria AI is your ultimate solutio
 ![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 
 If you want to learn how to create it please follow below tutorial👇: <br />
-➡ Tutorial Link 💚: [How to Build a $1M PhotoAI Sass Clone using Next.js 15, Supabase, Replicate API and Stripe](https://youtu.be/7AQNeii5K7E) 
-[![YouTube Video Views](https://img.shields.io/youtube/views/7AQNeii5K7E
-)](https://youtu.be/7AQNeii5K7E) <br />
+➡ Tutorial Link 💚: [How to Build a $1M PhotoAI Sass Clone](https://youtu.be/7AQNeii5K7E) <br />
+➡ Final Source Code💛: https://dub.sh/wYWBX9z (Get 40% discount with code **MWMJY2NG** only for next 3 Days) 
 
 
 🎯 For customised solutions or deployment please contact: https://tally.so/r/wdlj0N
 
-> NOTE: This is a final version of the project. Before you make it live, please make sure to test it thoroughly and make any necessary adjustments.
 
----
-# ⭐DO NOT FORGET TO STAR THIS REPO⭐
----
+#### ⭐DO NOT FORGET TO STAR THIS REPO⭐
 
 ## 🚀 Key Features  
----
+
 
 - 🛠️ Complete SaaS built in modern Next.js
 - 💻 Beautiful landing page included
@@ -36,6 +32,18 @@ If you want to learn how to create it please follow below tutorial👇: <br />
 - ✉️ Email Notifications
 - 📊 Usage Analytics
 - 🎁 ...much more
+
+## Images of The AI App:
+
+![Photo AI clone Dashboard](https://github.com/codebucks27/Pictoria-AI-Starter-Code/blob/main/screenshots/Dashboard.png)
+---
+![Photo AI clone Image Generation Page](https://github.com/codebucks27/Pictoria-AI-Starter-Code/blob/main/screenshots/Image-Generation.png)
+---
+![Photo AI clone Model Training Page](https://github.com/codebucks27/Pictoria-AI-Starter-Code/blob/main/screenshots/Model-Training.png)
+---
+![Photo AI clone Billing Page](https://github.com/codebucks27/Pictoria-AI-Starter-Code/blob/main/screenshots/Billing.png)
+---
+![Photo AI clone Account Settings Page](https://github.com/codebucks27/Pictoria-AI-Starter-Code/blob/main/screenshots/Account-Settings.png)
 
 ## 🛠️ Tech Stack
 
