@@ -8,7 +8,7 @@ Transform your photos with the power of AI! Pictoria AI is your ultimate solutio
 
 If you want to learn how to create it please follow below tutorial👇: <br />
 ➡ Tutorial Link 💚: [How to Build a $1M PhotoAI Sass Clone](https://youtu.be/7AQNeii5K7E) <br />
-➡ Final Source Code💛: https://dub.sh/wYWBX9z (Get 40% discount with code **MWMJY2NG** only for next 3 Days) 
+➡ Final Source Code💛: https://dub.sh/wYWBX9z (Get 40% discount with code **NEWYEAR40** Offer ends December 31st) 
 
 
 🎯 For customised solutions or deployment please contact: https://tally.so/r/wdlj0N
@@ -92,9 +92,10 @@ Create a `.env.local` file in the root directory. Check `.env.example` for requi
 ### 4. Supabase Database Setup
 
 1. Create a new Supabase project
-2. Execute the SQL queries from `supabase-queries.md` in your Supabase SQL editor (You can also follow the tutorial video to setup the database)
-3. Set up the database triggers and functions
-4. Make sure to setup the right RLS policies (You can also follow the tutorial video to setup the RLS policies)
+2. Create a new storage bucket named `generated_images`
+3. Execute the SQL queries from `supabase-queries.md` in your Supabase SQL editor (You can also follow the tutorial video to setup the database)
+4. Set up the database triggers and functions
+5. Make sure to setup the right RLS policies (You can also follow the tutorial video to setup the RLS policies)
 
 ### 5. AI Model Links
 
