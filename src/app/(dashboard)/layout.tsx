@@ -18,7 +18,10 @@ export default function DashboardLayout({
         <SidebarProvider>
             <AppSidebar />
             <SidebarInset>
-            <SidebarTrigger className="-ml-1" />
+                <div className="w-fit flex items-center my-4 gap-2">
+                    <SidebarTrigger className="" />
+                </div>
+
                 <main className="flex flex-1 flex-col gap-2 p-4 pt-0">
                     {children}
                 </main>
