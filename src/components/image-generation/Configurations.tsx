@@ -33,6 +33,9 @@ import { Input } from "@/components/ui/input"
 import { Textarea } from '../ui/textarea'
 import useGeneratedStore from '@/store/useGeneratedStore'
 
+
+
+//defining form schema
 export const ImageGenerationformSchema = z.object({
     model: z.string({
         required_error: 'Model is required'
@@ -64,7 +67,7 @@ const Configurations = () => {
             output_format: 'jpg',
             aspect_ratio: "1:1",
             output_quality: 80,
-            num_inference_steps: 28
+            num_inference_steps: 4
         },
     })
 

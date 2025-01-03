@@ -37,6 +37,7 @@ const useGeneratedStore = create<GenerateState>((set) => ({
             set({ images: dataWithUrl, loading: false })
             toast.success('Image generated successfully', { id: toastId })
 
+            //storing the image
             await storeImages(dataWithUrl)
             toast.success('Image stored successfully', { id: toastId })
             

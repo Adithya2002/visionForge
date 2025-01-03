@@ -1,6 +1,7 @@
 import React from 'react'
 import GalleryComponent from '@/components/gallery/GalleryComponent'
 import { getImages } from '@/app/actions/image-actions'
+
 const GalleryPage = async() => {
   const response = await getImages()
   const images = response?.data || null

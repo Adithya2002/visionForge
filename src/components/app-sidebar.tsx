@@ -28,7 +28,7 @@ export async function AppSidebar({ ...props }: React.ComponentProps<typeof Sideb
     email: data.user?.user_metadata.email ?? "",
     avatar:''
   }
-  console.log(data);
+
   return (
     <Sidebar collapsible="icon" {...props}>
       <SidebarHeader>
