@@ -62,15 +62,20 @@ const SignupForm = () => {
     })
 
     async function onSubmit(values: z.infer<typeof formSchema>){
+
         toast.loading("Signing up...", {id: toastId})
         setLoading(true);
-        // Do something with the form values.
-        // ✅ This will be type-safe and validated.
+
+        // appending form values
         const formData = new FormData()
         formData.append('fullName', values.fullname)
         formData.append('email', values.email)
         formData.append('password', values.password)
+
+        //sending form data to backend
         const {success, error} = await signup(formData)
+
+        //checking success
         if(!success){
             toast.error(String(error), {id:toastId})
             setLoading(false)
