@@ -18,12 +18,8 @@ Transform your photos with the power of AI! Vision Forge is your ultimate soluti
 - 💼 Professional LinkedIn Headshots
 - 🌟 Clean, modern UI on top of shadcn-ui
 - 📱 Social Media Content Generation
-- 💳 Integrated Payment System
-- ✉️ Email Notifications
-- 📊 Usage Analytics
 - 🎁 ...much more
 
-## Images of The AI App:
 
 ## 🛠️ Tech Stack
 
@@ -32,8 +28,6 @@ Transform your photos with the power of AI! Vision Forge is your ultimate soluti
 - **Database:** Supabase (PostgreSQL)
 - **Authentication:** Supabase Auth
 - **AI Integration:** Replicate AI API
-- **Payment Processing:** Stripe
-- **Email Service:** Resend
 - **Language:** TypeScript
 
 ## 🚀 Setup Instructions
